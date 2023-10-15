@@ -12,3 +12,4 @@ add -   "scripts": {
 yarn add @apollo/server
 yarn add graphql
 npx gitignore Node
+docker compose up
