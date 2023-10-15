@@ -12,4 +12,10 @@ add -   "scripts": {
 yarn add @apollo/server
 yarn add graphql
 npx gitignore Node
+then all git commad till push that track changes
 docker compose up
+docker compose up -d
+yarn add prisma typescript ts-node @types/node -D
+npx prisma init
+npx prisma migrate dev --name create_user_table
+@prisma/client
